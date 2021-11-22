@@ -1,11 +1,13 @@
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/typ99/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/typ99/frontend-project-lvl1/actions)
-
-### CodeClimate
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
-
-### Linter
-
 ![Linter](https://github.com/typ99/frontend-project-lvl1/actions/workflows/linter.yml/badge.svg)
+
+## Brain-even
+
+```sh
+brain-even
+```
+
+[![asciicast](https://asciinema.org/a/z9x3pan2OZKI84vHd4VWVFXO8.svg)](https://asciinema.org/a/z9x3pan2OZKI84vHd4VWVFXO8)
