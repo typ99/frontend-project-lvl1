@@ -19,3 +19,11 @@ brain-calc
 ```
 
 [![asciicast](https://asciinema.org/a/v7rcZKHQ9ffYWcZvIlqCMgQp6.svg)](https://asciinema.org/a/v7rcZKHQ9ffYWcZvIlqCMgQp6)
+
+## Game: "Greatest common divisor"
+
+```sh
+brain-gcd
+```
+
+[![asciicast](https://asciinema.org/a/bG65yjZGSiGFDOvLFeo3S7KSD.svg)](https://asciinema.org/a/bG65yjZGSiGFDOvLFeo3S7KSD)
