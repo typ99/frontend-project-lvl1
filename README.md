@@ -27,3 +27,11 @@ brain-gcd
 ```
 
 [![asciicast](https://asciinema.org/a/bG65yjZGSiGFDOvLFeo3S7KSD.svg)](https://asciinema.org/a/bG65yjZGSiGFDOvLFeo3S7KSD)
+
+## Game: "Arithmetic progression"
+
+```sh
+brain-progression
+```
+
+[![asciicast](https://asciinema.org/a/CWX3EpU2revTifa1dqoPsxGcm.svg)](https://asciinema.org/a/CWX3EpU2revTifa1dqoPsxGcm)
