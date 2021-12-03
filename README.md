@@ -35,3 +35,11 @@ brain-progression
 ```
 
 [![asciicast](https://asciinema.org/a/CWX3EpU2revTifa1dqoPsxGcm.svg)](https://asciinema.org/a/CWX3EpU2revTifa1dqoPsxGcm)
+
+## Game: "Is it a prime number?"
+
+```sh
+brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/rBgvojawzHfEhyYRKA6bqVtuz.svg)](https://asciinema.org/a/rBgvojawzHfEhyYRKA6bqVtuz)
