@@ -19,6 +19,7 @@ const $progressionGame = () => {
   const correctAnswer = progression[index].toString();
   progression[index] = '..';
   const question = progression.join(' ');
+  
   return [question, correctAnswer];
 };
 
