@@ -15,12 +15,18 @@
   "type": "module",
   "main": "bin/brain-games.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "format": "oxfmt --write ."
   },
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.65.0",
+    "oxlint": "^1.80.0"
   }
 }
