@@ -40,6 +40,10 @@ cd frontend-project-lvl1
 
 [![asciicast](https://asciinema.org/a/1264035.svg)](https://asciinema.org/a/1264035)
 
+### Brain-prime game
+
+[![asciicast](https://asciinema.org/a/1264036.svg)](https://asciinema.org/a/1264036)
+
 ---
 
 <details>

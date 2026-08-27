@@ -1,0 +1,26 @@
+const isPrime = (number) => {
+    if (number < 2 || number % 2 === 0) {
+        return false;
+    } else if (number === 2) {
+        return true;
+    }
+
+    const limit = Math.sqrt(number);
+
+    for (let i = 3; i <= limit; i += 2) {
+        if (number % i === 0) {
+            return false;
+        }
+    }
+
+    return true;
+};
+
+export const primeGame = () => {
+    const randomNumber = Math.floor(Math.random() * 100) + 1;
+
+    return {
+        question: randomNumber,
+        correctAnswer: isPrime(randomNumber) ? 'yes' : 'no',
+    };
+};
