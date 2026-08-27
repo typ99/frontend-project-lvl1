@@ -24,6 +24,10 @@ cd frontend-project-lvl1
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
+### Brain-even game
+
+[![asciicast](https://asciinema.org/a/1264021.svg)](https://asciinema.org/a/1264021)
+
 ---
 
 <details>
