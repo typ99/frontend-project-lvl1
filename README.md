@@ -28,6 +28,10 @@ cd frontend-project-lvl1
 
 [![asciicast](https://asciinema.org/a/1264021.svg)](https://asciinema.org/a/1264021)
 
+### Brain-calc game
+
+[![asciicast](https://asciinema.org/a/1264027.svg)](https://asciinema.org/a/1264027)
+
 ---
 
 <details>
